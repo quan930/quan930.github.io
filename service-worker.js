@@ -14,7 +14,7 @@
 importScripts("/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.8b2bd6d7b74dc8619bdf014412948f7d.js"
+  "/precache-manifest.4136fcdf8f2e49b139862ea3239229fc.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "lilq"});
